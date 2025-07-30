@@ -1,0 +1,30 @@
+# Maven output
+/target/
+
+# IntelliJ
+*.iml
+.idea/
+out/
+
+# OS-generated files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment-specific
+.env
+*.local
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Package files
+*.jar
+*.war
+*.ear
